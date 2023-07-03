@@ -26,7 +26,7 @@
       <div class="col-lg-6 col-md-6 mb-5 px-4">
 
         <div class="bg-white rounded shadow p-4">
-        <iframe class="w-100" height="320 px" src="<?php echo $contact_r['iframe']?>"  loading="lazy"></iframe>
+        <iframe class="w-100" height="320 px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d359536.9905090988!2d-76.13059011376134!3d45.25016393107147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05b25f5113af%3A0x8a6a51e131dd15ed!2sOttawa%2C%20ON!5e0!3m2!1sfr!2sca!4v1688354840733!5m2!1sfr!2sca"  loading="lazy"></iframe>
 
         <h5>Address</h5>
           <a href="https://goo.gl/maps/FSUrxPUGfeqfFtfs9" target="_blank" class="d-inline-block text-decoration-none text-dark mb-2">
