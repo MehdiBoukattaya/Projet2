@@ -59,7 +59,7 @@
     <div class="row">
         <div class="col-lg-4 col-md-6 my-3">  
             <div class="card border-0 shadow" style=" max-width: 350px; margin: auto;">
-            <img src="images/chainS/1.jpg" class="card-img-top">
+            <img src="images/chains/1.jpg" class="card-img-top">
             <div class="card-body ">
                     <h5 class="fw-bold">SereniStays</h5>
                     <p class="card-text">Discover a peaceful haven away from everyday stress. SereniStays offers you an unparalleled relaxation experience with elegant rooms, wellness amenities, and attentive service that allows you to escape and rejuvenate.</p>
